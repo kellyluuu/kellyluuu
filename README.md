@@ -11,6 +11,6 @@ Here's a short list of my skills:
 - Other: Product Development • Financial Analyst • SAP Products • Accounting • Cost Control • Project Management • Adobe Suite • Visual Basic • Power BI • Excel
 
 ![Top Langs](https://github-readme-stats-kelly.vercel.app/api/top-langs/?username=kellyluuu&langs_count=10&theme=nord&layout=compact&card_width=400&count_private=true&include_all_commits=true&exclude_repo=github-readme-stats))
-https://github.com/kellyluuu/github-readme-stats.git
+
 
 [info@devkelly.com](mailto:info@devkelly.com)
